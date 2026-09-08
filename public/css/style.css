@@ -113,3 +113,12 @@ textarea{
     padding-right: 0;
     padding-left:0 ;
 }
+
+/* map */
+
+#map {
+  height: 400px;
+  width: 100%;
+  border: 15px solid #ccc;
+  margin-top: 20px;
+}
